@@ -1,11 +1,9 @@
 export default class Model {
 
-
-
     constructor() {
 
     }
-    sayHello(){
+    sayHello() {
         console.log("hi from model");
     }
 }
